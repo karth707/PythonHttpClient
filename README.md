@@ -1,6 +1,6 @@
 -----------------------------------------------------------------------------------------
-(code flow):
-
+<b>Code flow:</b>
+-----------------------------------------------------------------------------------------
 <b>main():</b>
 This gets called first. This tries to get the status code, response body and the redirectURL if its present from the connect() function passing the Method and the URL as parameters.
 if the status code returned is 3xx, the main calls the connect() function in a while loop with the redirectURL up to 5 times.
