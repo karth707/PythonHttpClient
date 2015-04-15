@@ -1,2 +1,2 @@
-all: client
-	chmod +x client
+all: client.py
+	chmod +x client.py
