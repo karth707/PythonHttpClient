@@ -26,7 +26,7 @@ For example, a few test commands:<br>
 <code>echo $?</code><br>
 <code>./client.py GET http://www.msftncsi.com/ncsi.txt</code><br>
 <code>echo $?</code><br>
-<code>./client.py PUT http://sefcom.asu.edu/</code></br>
+<code>./client.py PUT http://sefcom.asu.edu/</code><br>
 <code>echo $?</code><br>
 
 --------------------------------------------------------------------------------------------------------------------------------
